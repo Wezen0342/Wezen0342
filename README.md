@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Fun fact: ...
 
 <!--
 **Wezen0342/Wezen0342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
